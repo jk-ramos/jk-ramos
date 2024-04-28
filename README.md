@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jk-ramos
 
 
-# Jaqueline Ramos: Uma Aspirante a Desenvolvedora Apaixonada! 🚀
+# Jaquelaine Ramos: Uma Aspirante a Desenvolvedora Apaixonada! 🚀
 
 De Eldorado, Vale do Ribeira para o mundo da tecnologia!
 
