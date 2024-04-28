@@ -56,7 +56,7 @@ Embora tenha o desejo de ser desenvolvedora full stack, pretendo me aprofundar e
 - Prefiro back-end à área gráfica.
 - Sempre buscando novos desafios: Adoro aprender idiomas e quero ser fluente em inglês, espanhol e quem sabe mandarim! 🌟
 
- #JaquelineRamos #DesenvolvedoraApaixonada #Tecnologia #BackEnd #FullStack
+ #JaquelaineRamos #DesenvolvedoraApaixonada #Tecnologia #BackEnd #FullStack #Java
 
 
 
