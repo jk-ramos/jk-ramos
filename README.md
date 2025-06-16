@@ -12,7 +12,7 @@ Com 30 anos, decidi migrar para a área de tecnologia e me apaixonei nesse proce
 - *Comunicação é meu forte*: Trabalhei na área de comércio por muitos anos, o que me tornou especialista em me expressar bem. 💬
 - *Apaixonada por cultura*: Amo ouvir música,assistir séries (adoro dramas chineses e coreanos!) e sou fascinada por animes desde criança. 🎶📺🎥
 - *Inglês em foco*: Quero me aperfeiçoar e adquirir fluência para trabalhar em empresas internacionais. 🌎🌐
-- *Experiência prática*: Formada em Técnico em Comércio, já trabalhei em atendimento ao público em restaurantes, como secretária e balconista em lojas. 👩‍💼🏢
+- *Experiência prática*: Formada em Técnico em Comércio e em Técnico em Secretariado, já trabalhei em atendimento ao público em restaurantes, como secretária e balconista em lojas. 👩‍💼🏢
 
 ## Na Fatec Registro, encontrei meu caminho:
 
