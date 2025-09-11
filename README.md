@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou a Jaquelaine Ramos
+# 👋 Olá! Eu sou a Jak Ramos
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Bem-vinda+ao+meu+perfil!+🚀;Aspirante+a+Desenvolvedora+Back-end;Apaixonada+por+Java+e+Tecnologia!;De+Eldorado-SP+para+o+mundo+da+tech!+💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Bem-vinda+ao+meu+perfil!+🚀;Aspirante+a+Desenvolvedora+Back-end;Apaixonada+por+Java+e+Tecnologia!;De+Eldorado-SP+para+o+mundo+tech!+💻)
 
 </div>
 
@@ -17,7 +17,7 @@ Sou **Jaquelaine Ramos**, tenho 30 anos e venho de **Eldorado, Vale do Ribeira -
 ### 🎯 Objetivos
 - 🚀 Tornar-me uma desenvolvedora **Back-end** especializada
 - 🌐 Alcançar fluência em inglês para trabalhar em empresas internacionais
-- 📚 Dominar tecnologias como Java, Python e bancos de dados
+- 📚 Dominar tecnologias como Java, Python C e bancos de dados
 - 🌟 Crescer profissionalmente na área de desenvolvimento
 
 ---
@@ -77,7 +77,7 @@ Sou **Jaquelaine Ramos**, tenho 30 anos e venho de **Eldorado, Vale do Ribeira -
 
 ## 🎨 Interesses Pessoais
 
-- 🎵 **Música:** Sempre com uma playlist tocando enquanto codia
+- 🎵 **Música:** Sempre com uma playlist tocando enquanto codo
 - 📺 **Séries:** Apaixonada por dramas chineses e coreanos
 - 🍃 **Animes:** Fã desde criança - anime e código combinam perfeitamente!
 - 🐾 **Pets:** Completamente apaixonada por animais
