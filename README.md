@@ -24,9 +24,11 @@ Sou **Jaquelaine Ramos**, tenho 30 anos e venho de **Eldorado, Vale do Ribeira -
 
 ## 🎓 Formação & Experiência
 
-**🎓 Atual:** Desenvolvimento de Software e Multiplataforma - **Fatec Registro**
+**🎓 Formações em Andamento:**
+- Desenvolvimento de Software e Multiplataforma - **Fatec Registro**
+- Técnico de Informática para Internet - **Senac Registro**
 
-**📋 Formações Anteriores:**
+**📋 Formações Concluídas:**
 - Técnico em Comércio
 - Técnico em Secretariado
 
@@ -101,7 +103,7 @@ Sou **extrovertida** e adoro conhecer pessoas novas! Se você também é apaixon
 
 ### 💫 *"De Eldorado para o mundo: transformando paixão em código!"*
 
-![Snake animation](https://github.com/jk-ramos/jk-ramos/blob/output/github-contribution-grid-snake.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=jk-ramos&color=ff69b4&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -109,8 +111,6 @@ Sou **extrovertida** e adoro conhecer pessoas novas! Se você também é apaixon
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/jk-ramos/count.svg)
-
-**Obrigada pela visita! ⭐ Não esqueça de dar uma olhada nos meus repositórios!**
+**⭐ Obrigada pela visita! Não esqueça de dar uma olhada nos meus repositórios! ⭐**
 
 </div>
