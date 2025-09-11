@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Bem-vinda+ao+meu+perfil!+🚀;Aspirante+a+Desenvolvedora+Back-end;Apaixonada+por+Java+e+Tecnologia!;De+Eldorado-SP+para+o+mundo+tech!+💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+🚀;Aspirante+a+Desenvolvedora+Back-end;Apaixonada+por+Java+e+Tecnologia!;De+Eldorado-SP+para+o+mundo+tech!+💻)
 
 </div>
 
