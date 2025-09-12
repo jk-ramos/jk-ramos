@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+🚀;Aspirante+a+Desenvolvedora+Back-end;Apaixonada+por+Java+e+Tecnologia!;De+Eldorado-SP+para+o+mundo+tech!+💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Bem-vind0+ao+meu+perfil!+🚀;Aspirante+a+Desenvolvedora+Back-end;Apaixonada+por+Java+e+Tecnologia!;De+Eldorado-SP+para+o+mundo+tech!+💻)
 
 </div>
 
@@ -17,7 +17,7 @@ Sou **Jaquelaine Ramos**, tenho 30 anos e venho de **Eldorado, Vale do Ribeira -
 ### 🎯 Objetivos
 - 🚀 Tornar-me uma desenvolvedora **Back-end** especializada
 - 🌐 Alcançar fluência em inglês para trabalhar em empresas internacionais
-- 📚 Dominar tecnologias como Java, Python C e bancos de dados
+- 📚 Dominar tecnologias como Java, Python e bancos de dados
 - 🌟 Crescer profissionalmente na área de desenvolvimento
 
 ---
@@ -34,7 +34,8 @@ Sou **Jaquelaine Ramos**, tenho 30 anos e venho de **Eldorado, Vale do Ribeira -
 
 **💼 Experiência Profissional:**
 - Atendimento ao público em restaurantes
-- Secretária
+- Secretária e auxiliar de escritório
+- Auxiliar de contabilidade
 - Balconista em lojas
 
 *Minha experiência em comércio me tornou especialista em comunicação - uma habilidade essencial para qualquer desenvolvedor!*
@@ -52,16 +53,28 @@ Sou **Jaquelaine Ramos**, tenho 30 anos e venho de **Eldorado, Vale do Ribeira -
 ### 🌐 Tecnologias Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🚀 Frameworks & Runtime
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
 ### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ Ferramentas & Design
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📄 CMS & Outras Tecnologias
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ---
 
@@ -91,8 +104,8 @@ Sou **extrovertida** e adoro conhecer pessoas novas! Se você também é apaixon
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaquelaine-ramos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jkrramos@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](seu-instagram)
 
 </div>
