@@ -25,7 +25,8 @@ Sou **Jaquelaine Ramos**, tenho 30 anos e venho de **Eldorado, Vale do Ribeira -
 ## 🎓 Formação & Experiência
 
 **🎓 Formações em Andamento:**
-- Desenvolvimento de Software e Multiplataforma - **Fatec Registro**
+- Análise e Desenvolvimento de Sistemas - **Cruzeiro do Sul**
+- Informática para Internet - **IF Sul de Minas**
 
 **📋 Formações Concluídas:**
 - Técnico em Comércio
